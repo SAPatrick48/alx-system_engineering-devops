@@ -1,10 +1,8 @@
 #!/bin/bash
-# List files in the current directory
-echo "Current Directory:"
-ls -lA
-# List files in the parent directory of the working directory
-echo "Parent Directory:"
+**echo "Current Directory:"// # List files in the current directory// ls -lA
+**# List files in the parent directory of the working directory
+**echo "Parent Directory:"
 ls -lA ..
-# List files in the /boot directory
-echo "/boot Directory:"
-ls -lA /boot
+**# List files in the /boot directory
+**echo "/boot Directory:"
+**ls -lA /boot
